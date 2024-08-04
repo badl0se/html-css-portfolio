@@ -127,8 +127,8 @@ section h2, .experience-card h3 {
 
 }
 
-.experience-card p, {
-    font-size: 0.9rem;
+.experience-card p {
+    font-size: 1rem;
 }
 
 .card-header {
